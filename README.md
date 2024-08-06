@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development / Cybersecurity Projects:</h2>
 
-  - [Setup SIEM in Azure](https://github.com/ivanmorhunn/LABURL)
+  - [Setup SIEM in Azure](https://github.com/ivanmorhunn/HoneypotLab/tree/main)
   - [Java Storefront Team Project](https://docs.google.com/presentation/d/1Uq2ZA3L3rWbCwgCyzDzHU7DIFT8h9SyhVeNYDxqp7ao/edit#slide=id.g2331ab6b8d8_0_100)
   - [Text Adventure Game](https://github.com/ivanmorhunn/tex_adv2)
 
