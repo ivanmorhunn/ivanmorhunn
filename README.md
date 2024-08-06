@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1>Hi, I'm Ivan! <br/><a href="https://github.com/ivanmorhunn/">Programmer</a>, <a href="https://www.linkedin.com/in/ivan-morhun-156604203/">Cybersecurity Professional</a></h1>
 
-<!--
-**ivanmorhunn/ivanmorhunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development / Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+  - [Setup SIEM in Azure](https://github.com/ivanmorhunn/LABURL)
+  - [Java Storefront Team Project](https://docs.google.com/presentation/d/1Uq2ZA3L3rWbCwgCyzDzHU7DIFT8h9SyhVeNYDxqp7ao/edit#slide=id.g2331ab6b8d8_0_100)
+  - [Text Adventure Game](https://github.com/ivanmorhunn/tex_adv2)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📖 Education </h2>
+
+- Currently pursing towards Bachlor's of Science in Cybersecurity Analytics and Operations
+  - Student at The Pennsylvania State University, Brandywine
+  - Expected to graduate in 𝟚𝟘𝟚𝟞
+
+<h2>🪪 Certifications & Goals </h2>
+
+- Working on CompTIA Sec+ (In Progress)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="IvanMorhun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="IvanMorhun | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/ivan.morhun/
+[linkedin]: https://github.com/ivanmorhunn/
