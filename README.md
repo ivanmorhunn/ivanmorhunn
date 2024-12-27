@@ -15,6 +15,10 @@
 <h2>🪪 Certifications & Goals </h2>
 
 - Working on CompTIA Sec+ (In Progress)
+- Network Support and Security (Cisco)
+- Introduction to Cybersecurity (Cisco)
+- Cybersecurity Fundamentals (Palo Alto)
+- Introduction to Cybersecurity Awareness (Splunk)
 
 <h2> 🤳 Connect with me:</h2>
 
