@@ -13,7 +13,7 @@
   - Student at The Pennsylvania State University, Brandywine
   - Expected to graduate in 𝟚𝟘𝟚𝟞
 
-<h2>🪪 Certifications & Goals </h2>
+<h2>📜 Certifications & Goals </h2>
 
 - Working on CompTIA Sec+ (In Progress)
 - Network Support and Security (Cisco)
