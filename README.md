@@ -6,7 +6,7 @@
   - [Automated Schedule](https://github.com/ivanmorhunn/Automated-Schedule/tree/main)
   - [Backup, Encryption and Checksums](https://github.com/ivanmorhunn/Backup-Encryption-Checksums)
   - [Java Storefront Team Project](https://docs.google.com/presentation/d/1Uq2ZA3L3rWbCwgCyzDzHU7DIFT8h9SyhVeNYDxqp7ao/edit#slide=id.g2331ab6b8d8_0_100)
-  - [Text Adventure Game](https://github.com/ivanmorhunn/tex_adv2)
+  - [Java Game](https://github.com/ivanmorhunn/tex_adv2)
   - [Port Scanner Tool](https://github.com/ivanmorhunn/Port_Scanner)
     
 
