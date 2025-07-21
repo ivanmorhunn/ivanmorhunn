@@ -4,7 +4,6 @@
 
   - [Setup SIEM in Azure](https://github.com/ivanmorhunn/HoneypotLab/tree/main)
   - [My Portfolio Website](https://github.com/ivanmorhunn/my-portfolio-website)
-  - [Automated Schedule [Google Script]](https://github.com/ivanmorhunn/Automated-Schedule/tree/main)
   - [Backup, Encryption and Checksums](https://github.com/ivanmorhunn/Backup-Encryption-Checksums)
   - [Java Storefront Team Project](https://docs.google.com/presentation/d/1Uq2ZA3L3rWbCwgCyzDzHU7DIFT8h9SyhVeNYDxqp7ao/edit#slide=id.g2331ab6b8d8_0_100)
   - [Java Game](https://github.com/ivanmorhunn/tex_adv2)
